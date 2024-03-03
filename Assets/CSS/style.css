@@ -1,5 +1,4 @@
-* {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+* {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {
@@ -26,10 +25,6 @@ p {
     align-items: center;
 }
 
-ul {
-    list-style-type: none
-}
-
 .div {
     display: flex;
     justify-content: center;
@@ -38,7 +33,6 @@ ul {
 img {
     width: 1500px;
     height: 400px;
-
 }
 
 .work {
@@ -55,7 +49,7 @@ img {
 
 #project-1 {
     height: 300px;
-    width: 81%;
+    width: 83.5%;
     margin: auto;
     margin-bottom: 10px;
 }
