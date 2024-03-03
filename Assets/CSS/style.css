@@ -25,3 +25,24 @@ p {
     justify-content: space-between;
     align-items: center;
 }
+
+ul {
+    list-style-type: none
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 1500px;
+    height: 400px;
+
+}
+
+.work {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
