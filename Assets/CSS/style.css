@@ -47,22 +47,27 @@ img {
     text-align: center;
 }
 
-#workContainer{
+#workContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-#project-1{
-height: 300px;
-width: 81%;
-margin: auto;
-margin-bottom: 10px;
+
+#project-1 {
+    height: 300px;
+    width: 81%;
+    margin: auto;
+    margin-bottom: 10px;
 }
-.project{
+
+.project {
     width: 40%;
     height: 200px;
     margin: 15px 10px;
     background-image: url("https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?height=399&width=711&fit=bounds");
-    background-blend-mode:soft-light;
+    background-blend-mode: soft-light;
 }
 
+.project:hover {
+    background-color: rgba(73, 42, 165, 0.923);
+}
